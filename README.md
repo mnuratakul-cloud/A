@@ -1,0 +1,1 @@
+MNA Android test projesi. GitHub Actions > MNA APK Olustur > Run workflow. Basarili derlemeden sonra Artifacts > MNA-test-apk indir. Test surumu; finansal veriler icin guvenlik denetimi yapilmamistir.
